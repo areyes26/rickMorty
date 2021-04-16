@@ -15,6 +15,7 @@ header, footer {
 header div h1, footer h1{
     height: 100%;
     margin: 0%;
+    
 }
 #root{
     margin-top: 4%
@@ -26,6 +27,7 @@ header div h1, footer h1{
     margin-bottom: 2%;
     text-align: center;
     margin-left: 3%;
+    
  }
  .tarjeta div {
      width: 75%;
